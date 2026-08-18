@@ -48,3 +48,11 @@ git clone https://github.com/arielalcayaga/SpeedFastS1.git
 
 
 ---
+
+**Repositorio GitHub:** [https://github.com/arielalcayaga/SpeedFastS1.git]
+**Fecha de entrega:** \[17/08/2026]
+
+---
+
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Formativa 1.
+
